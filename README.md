@@ -1,6 +1,7 @@
-# title-gen
+# sfp-groups.pl
 
 A utility to manage group membership across multiple group-having services
+used at my former employer.
 
 ## Usage
 
